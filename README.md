@@ -1,7 +1,21 @@
 jupyter-exploration
-The Mission
-This repository serves as the official documentation for my ITAI1378 Lab Assignment. The goal was simple: master the workflow, get the tools under control, and establish a solid baseline for version control and interactive computing. No fluff, just the work.
-
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║          ██╗██╗   ██╗██████╗ ██╗    ██╗ ████████╗███████╗██████╗              ║
+║          ██║██║   ██║██╔══██╗ ██║  ██╔╝ ╚══██╔══╝██╔════╝██╔══██╗             ║
+║          ██║██║   ██║██████╔╝  ██║██║      ██║   █████╗  ██████╔╝             ║
+║  ██║     ██║██║   ██║██╔═══╝     ██║       ██║   ██╔══╝  ██╔══██╗             ║
+║  ███████╗██║╚██████╔╝██║         ██║       ██║   ███████╗██║  ██║             ║
+║  ╚══════╝╚═╝ ╚═════╝ ╚═╝         ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ > THE MISSION                                                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ This repository serves as the official documentation for my ITAI1378 Lab      ║
+║ Assignment. The goal was simple: master the workflow, get the tools under     ║
+║ control, and establish a solid baseline for version control and interactive   ║
+║ computing. No fluff, just the work.                                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 What this repo will entail:
 It tracks the foundational moves required for modern engineering documentation:
 
