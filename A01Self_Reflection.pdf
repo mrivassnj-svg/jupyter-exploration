@@ -1,0 +1,33 @@
+Self-Reflection:
+GitHub and Colab Lab Experience
+
+*Introduction*
+This lab introduced me to the basics of GitHub and Jupyter Notebooks, two tools that are widely used in software development and data-related fields. Before this assignment, my understanding of version control systems and notebook-based coding environments was very limited. This activity helped me move beyond theory and actually experience how these tools function together in a real workflow.
+
+Rather than focusing only on completing tasks, the most valuable part of this lab was understanding how different tools connect: GitHub for managing and storing projects, and Jupyter Notebooks for writing and running code interactively.
+
+*Overall Experience and Learning*
+
+Working with GitHub for the first time made me realize how structured software projects are expected to be. The idea of repositories, commits, and version tracking initially felt unfamiliar, but it became clearer that GitHub is essentially a way to organize progress over time. Instead of overwriting work, each change is saved and documented, which makes it easier to understand how a project develops.
+
+Jupyter Notebooks were more intuitive in comparison. The combination of text and executable code in the same space made programming feel more accessible and less abstract. Seeing immediate output after running code helped reinforce basic Python concepts, especially how simple commands like print() translate directly into results. The Markdown feature also showed how explanations and code can exist side by side, which makes notebooks useful for both learning and communication.
+
+Overall, the lab helped connect technical tools with practical use. It was not just about completing steps, but about understanding how developers and analysts actually structure their work.
+
+*Challenges Encountered*
+
+One challenge I encountered was related to file management when working with GitHub Desktop. At first, it was not immediately clear where files needed to be placed in the local repository for changes to be recognized. This caused some confusion because everything appeared correct on GitHub itself, but not locally. After reviewing the folder structure more carefully, I understood how the local repository and GitHub online version stay synchronized.
+
+Another difficulty came from navigating between multiple platforms (GitHub, Google Colab, and GitHub Desktop). Switching between environments made the workflow feel fragmented at first, and it was easy to lose track of where each part of the project was being stored or edited. Once I became more familiar with the process, it became clearer how each tool plays a specific role in the overall workflow.
+
+*Easier Aspects of the Lab*
+
+One of the simplest parts of the lab was setting up the GitHub account and exploring the interface. The layout was straightforward, and most features were clearly labeled, which made it easy to understand the basics without prior experience.
+
+Another easy part was working inside the Jupyter Notebook itself, especially writing and running simple code. The immediate feedback from running code made the process feel interactive and low-pressure, which helped build confidence quickly.
+
+*Ending Thoughts*
+
+This lab provided a useful introduction to how coding environments and version control systems work together. While there were some initial challenges in understanding file organization and platform interaction, the overall experience helped me build a stronger foundation in both GitHub and Jupyter Notebooks.
+
+More importantly, I gained a better understanding of how modern programming workflows are structured. Instead of working in isolation, tools like GitHub encourage organization, tracking, and collaboration, while Jupyter Notebooks make experimentation and learning more interactive. These skills will be useful in future programming and data-focused coursework.
